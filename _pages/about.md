@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 ---
----
 **I am on the 2024-2025 academic job market for a Postdoc position.**
 
-I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China.
+I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China. Prior to this, I earned both my Master's and Bachelor's degrees in Computer Science from Harbin Institute of Technology, China.
 
-Prior to this, I earned both my Master's and Bachelor's degrees in Computer Science from Harbin Institute of Technology, China.
+[Email](ZJL1919@outlook.com)
 
 **Research Interests**
 -----
 **Topics:** Digital Advertisement, Crowdsourcing, Social Media, 
+
 **Methodologies:** Applied econometric analysis, field / laboratory experimental design and analysis, system design and development, Machine learning, Deep Learning
 
 
