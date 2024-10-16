@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
-**I am on the 2024-2025 academic job market for a Postdoc position.**
+**I am on the academic job market for a Postdoc position starting in 2025 summer/fall.**
 
 I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China. Prior to this, I earned both my Master's and Bachelor's degrees in Computer Science from Harbin Institute of Technology, China.
 
