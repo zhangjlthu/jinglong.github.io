@@ -21,12 +21,12 @@ repository               : "zhangjlthu/jinglong.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Jinglong Zhang"
   pronouns         : "He/Him"  
   bio              : "PhD Candidate in Quant Marketing at Tsinghua University"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "Tsinghua University"
   uri              : # URL
   email            : "zjl1919@outlook.com" 
 
