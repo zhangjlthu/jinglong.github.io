@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HomePage"
+title                    : "Jinglong's HomePage"
 title_separator          : "-"
 name                     : &name "Jinglong Zhang"
 description              : &description "personal description"
