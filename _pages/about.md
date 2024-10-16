@@ -12,7 +12,8 @@ redirect_from:
 I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China. Prior to this, I earned both my Master's and Bachelor's degrees in Computer Science from Harbin Institute of Technology, China.
 
 
-Email: [(mailto:zjl1919@outlook.com)]
+Email: [zjl1919@outlook.com](mailto:zjl1919@outlook.com)
+
 Github: []
 
 
