@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
+
 **I am on the 2024-2025 academic job market for a Postdoc position.**
 
-I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China. My primary research interests are in the economics of information and AI technologies, including social media, FinTech, digital marketing, online education, human-AI/algorithms collaboration. His primary research methods include applied econometric analysis, field and laboratory experiments. 
-
+I am a PhD Candidate in Quantitative Marketing at the School of Economics and Management, Tsinghua University, China.
 
 Prior to this, I earned both my Master's and Bachelor's degrees in Computer Science from Harbin Institute of Technology, China.
 
 **Research Interests**
+-----
 **Topics:** Digital Advertisement, Crowdsourcing, Social Media, 
+
 **Methodologies:** Applied econometric analysis, field / laboratory experimental design and analysis, system design and development, Machine learning, Deep Learning
 
 
