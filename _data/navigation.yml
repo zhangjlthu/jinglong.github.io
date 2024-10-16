@@ -5,17 +5,20 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Home"
+    url: /research/ 
+    
   - title: "Research"
     url: /research/  
 
   - title: "Employment"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Honors"
+    url: /honors/
     
   - title: "CV"
     url: /cv/
