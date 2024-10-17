@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ### Business Analytics
-*Undergraduate Course, Tsinghua University, Spring 2023
-*30 Students
+* Undergraduate Course, Tsinghua University, Spring 2023
+* 30 Students
 
 ### Managerial Thinking and Communication
 * MBA Course, Fall 2022
