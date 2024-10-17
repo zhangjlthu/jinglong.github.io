@@ -8,9 +8,11 @@ author_profile: true
 ### Business Analytics
 * Undergraduate Course, Tsinghua University, Spring 2023
 * 30 Students
+
 ### Managerial Thinking and Communication
 * MBA Course, Fall 2022
 * 68 Students
+
 ### Priciples of Computer Organization
 * Undergraduate Course in Computer Science, Harbin Institute of Technology, Fall 2019
 * 150 Students
@@ -26,5 +28,5 @@ My academic training, combined with my industry experience as a data analyst and
 * R
 * A/B Testing
 * Causal Estimation
-* ...
+* ......
 
