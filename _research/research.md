@@ -6,11 +6,11 @@ author_profile: true
 
 ---
 
-Mobile Ad Fraud: Empirical Patterns in Publisher and Advertising Campaign Data. Yitian (Sky) Liang, Xinlei (Jack) Chen, Yuxin Chen, Ping Xiao, Jinglong Zhang.
+**Mobile Ad Fraud: Empirical Patterns in Publisher and Advertising Campaign Data.** Yitian (Sky) Liang, Xinlei (Jack) Chen, Yuxin Chen, Ping Xiao, Jinglong Zhang.
 * International Journal of Research in Marketing (Forthcoming)
 * [Paper]()
 
-Effectiveness of Advertising Campaigns on Short-Form Video Social Platforms: An Empirical Analysis through a Large-Scale Randomized Field Experiment on ByteDance. Yitian (Sky) Liang, Xinlei (Jack) Chen, Shengnan Han, Jinglong Zhang, Yubo Chen.
+**Effectiveness of Advertising Campaigns on Short-Form Video Social Platforms: An Empirical Analysis through a Large-Scale Randomized Field Experiment on ByteDance.** Yitian (Sky) Liang, Xinlei (Jack) Chen, Shengnan Han, Jinglong Zhang, Yubo Chen.
 * Marketing Science (2nd round review, major revision last round)
 * [Paper]()
 
