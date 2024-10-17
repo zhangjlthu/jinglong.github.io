@@ -13,7 +13,7 @@ I am a PhD Candidate in Quantitative Marketing at the School of Economics and Ma
 
 My primary research interests lie at the intersection of AI, high technology, and business, particularly in marketing contexts such as digital advertising, crowdfunding, and social media.
 
-My main research methodologies encompass deep learning, machine learning, applied econometrics, and both field and laboratory experiments. 
+My main research methodologies include deep learning, machine learning, applied econometrics, and both field and laboratory experiments. 
 
 Email: [zjl1919@outlook.com](mailto:zjl1919@outlook.com)
 
