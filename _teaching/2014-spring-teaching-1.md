@@ -2,7 +2,7 @@
 title: "Business Analytics"
 collection: teaching
 type: "Undergraduate course"
-# permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Tsinghua University"
 date: Spring, 2023
 # location: "City, Country"
