@@ -226,6 +226,9 @@ collections:
   Home:
     output: true
     permalink: /:collection/:path/
+  employment:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
