@@ -1,17 +1,33 @@
 ---
 layout: archive
-title: "Work Experience"
-permalink: /employment/
+title: "Teaching Assitant"
+permalink: /teaching/
 author_profile: true
 ---
 
-### ByteDance
-* Academic Collaborator & Research Intern, Core Data Science Team
-* Nov 2021 – Sep 2023
+### Business Analytics
+*Undergraduate Course, Tsinghua University, Spring 2023
+*30 Students
 
-### HKU Business School
-* Research Assistant, Under the supervision of Prof. Junhong Chu
-* Mar 2023 – Sep 2023
+### Managerial Thinking and Communication
+* MBA Course, Fall 2022
+* 68 Students
 
+### Priciples of Computer Architecture
+* Undergraduate Course in Computer Science, Harbin Institute of Technology, Fall 2019
+* 150 Students
+
+# Courses I Would Like to Teach
+My academic training, combined with my industry experience as a data analyst and my role as a teaching assistant in Business Analytics programs, has equipped me with the skills necessary to teach a diverse array of courses. I am eager to expand my teaching portfolio by offering courses that align with my research expertise and meet the evolving needs of students in business analytics and data science.
+
+* Text Mining
+* Image Analysis
+* AI & Machine Learning for Business Applications
+* SQL
+* Python
+* R
+* A/B Testing
+* Causal Estimation
+* ……
 
 
