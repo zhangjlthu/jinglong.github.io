@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-
+    
 **Mobile Ad Fraud: Empirical Patterns in Publisher and Advertising Campaign Data.** Yitian (Sky) Liang, Xinlei (Jack) Chen, Yuxin Chen, Ping Xiao, Jinglong Zhang.
 * International Journal of Research in Marketing (Forthcoming)
 * [Paper](https://docs.google.com/gview?url=https://github.com/zhangjlthu/jinglong.github.io/raw/master/_research/mobile_ad_fraud.pdf&embedded=true)
