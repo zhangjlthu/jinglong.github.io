@@ -13,7 +13,7 @@ author_profile: true
 * MBA Course, Fall 2022
 * 68 Students
 
-### Priciples of Computer Organization
+### Priciples of Computer Architecture
 * Undergraduate Course in Computer Science, Harbin Institute of Technology, Fall 2019
 * 150 Students
 
