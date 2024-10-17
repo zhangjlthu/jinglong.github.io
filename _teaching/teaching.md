@@ -22,7 +22,7 @@ Managerial Thinking and Communication
   
 Priciples of Computer Organization
 -----
-* Undergraduate Course, Harbin Institute of Technology, Spring, 2023
+* Undergraduate Course in Computer Science, Harbin Institute of Technology, Spring, 2023
 * 150 Students
 
 
