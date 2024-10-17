@@ -9,6 +9,7 @@ author_profile: true
 ### ByteDance
 * Academic Collaborator & Research Intern, Core Data Science Team
 * Nov 2021 – Sep 2023
+* I interned at ByteDance for two years, where I evaluated the effectiveness of online short-form video advertising campaigns, investigated short-video content consumption patterns, and produced high-quality research papers.
 
 ### HKU Business School
 * Research Assistant, Under the supervision of Prof. Junhong Chu
