@@ -17,6 +17,5 @@ My main research methodologies include deep learning, machine learning, applied 
 
 Email: [zjl1919@outlook.com](mailto:zjl1919@outlook.com)
 
-My CV: [CV](https://docs.google.com/gview?url=https://github.com/zhangjlthu/jinglong.github.io/raw/master/files/CV_JinglongZhang_202405.pdf&embedded=true
-)
+My CV: [CV](https://docs.google.com/gview?url=https://github.com/zhangjlthu/jinglong.github.io/raw/master/assets/CV_JinglongZhang_202409.pdf&embedded=true)
 
