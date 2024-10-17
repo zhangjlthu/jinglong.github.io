@@ -5,10 +5,6 @@ permalink: /teaching/
 author_profile: true
 
 ---
-
-{% include base_path %}
-
----
 ## Teaching Assitant
 ### Business Analytics
 * Undergraduate Course, Tsinghua University, Spring 2023
