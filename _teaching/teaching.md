@@ -19,7 +19,7 @@ author_profile: true
 
 ## Courses I Would Like to Teach
 
-My academic training, combined with my industry experience as a data analyst and my role as a teaching assistant in Business Analytics programs, has equipped me with the skills necessary to teach a diverse array of courses. I am eager to expand my teaching portfolio by offering courses that align with my research expertise and meet the evolving needs of students in business analytics and data science. <br>
+My academic training, combined with my industry experience as a data analyst and my role as a teaching assistant in Business Analytics programs, has equipped me with the skills necessary to teach a diverse array of courses. I am eager to expand my teaching portfolio by offering courses that align with my research expertise and meet the evolving needs of students in business analytics and data science. 
 * Text Mining
 * Image Analysis
 * AI & Machine Learning for Business Applications
