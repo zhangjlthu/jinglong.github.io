@@ -14,7 +14,7 @@ I am a PhD Candidate in Quantitative Marketing at the School of Economics and Ma
 
 Email: [zjl1919@outlook.com](mailto:zjl1919@outlook.com)
 
-My CV: [CV](https://github.com/zhangjlthu/jinglong.github.io/tree/master/files/CV_JinglongZhang_202405.pdf)
+My CV: [CV](<iframe src="https://github.com/zhangjlthu/jinglong.github.io/raw/master/files/CV_JinglongZhang_202405.pdf" width="100%" height="600px"></iframe>)
 
 
 **Research Interests**
